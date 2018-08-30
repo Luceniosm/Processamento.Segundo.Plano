@@ -3,5 +3,7 @@ Aplicação usando Hangfire com SimpleInjector, para processamento de métodos e
 
 A estrutura do projeto está usando padrão de projeto DDD.
 
-Duvidas ou sujestões encaminha para meu email com o nome do projeto.
+Duvidas ou sujestões encaminhar para meu email com o nome do projeto.
 Luceniosm@hotmail.com
+
+Obrigado!
